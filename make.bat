@@ -1,0 +1,1 @@
+javac -d ./ src/alter.java src/control.java src/inout.java src/setup.java src/visual.java

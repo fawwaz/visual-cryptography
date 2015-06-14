@@ -1,0 +1,5 @@
+On windows machines, you can run the program by double-clicking 'run.bat'. 
+
+Other operating systems should run 'java resources.setup', or the syntactic equivalent.
+
+The program can be recompiled by running 'make.bat' (on Windows systems), or the equivalent (see the make file for details) on other operating systems.
